@@ -1,2 +1,4 @@
 git merge testing
 git merge conflict testing in master branch
+git merge conflict testing in feature/dev_1.2.4
+
